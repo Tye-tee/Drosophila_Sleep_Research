@@ -53,7 +53,7 @@ This study explores whether sleep quantity affects exploratory behavior and atte
 
 View the full presentation:
 - https://1drv.ms/p/c/18593756cf7a242d/ES0kes9WN1kggBjXFQAAAAABfPbrNmK4KBOsrWb7a-lWFg?e=M3FFoF
-- [Download PowerPoint (.pptx)](presentation/Titilayo_Kuloyo_Sleep_Drosophila.pptx)
+
 - [View as PDF]file:///C:/Users/kt762/Downloads/Titilayo_Kuloyo%20Undergraduate%20Research%20Presentation%202.pdf
 
 ## References
