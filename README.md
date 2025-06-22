@@ -19,6 +19,30 @@ This study explores whether sleep quantity affects exploratory behavior and atte
 - **Software:** Ethovision XT for automated behavioral tracking
 - **Variables:** Distance moved, mobility frequency, time in zone
 
+##  Skills Demonstrated
+
+### Research & Scientific Methodology
+- Experimental design using model organisms
+- Behavioral neuroscience and sleep research
+- Literature review and academic referencing
+
+### Technical Tools & Analysis
+- EthoVision XT (video tracking & analysis)
+- Microsoft Excel (data cleaning and processing)
+- Data visualization and trend analysis
+- PowerPoint (scientific presentation design)
+
+### Analytical Thinking
+- Interpreting behavioral data in biological context
+- Identifying significant trends and correlations
+- Statistical insight (significance levels, trend lines)
+
+### Communication & Presentation
+- Translating complex data into visuals and insights
+- Scientific writing and structured storytelling
+- Delivering academic presentations with confidence
+
+
 ## Key Results
 
 - Long sleep lines exhibited **greater exploratory activity**.
