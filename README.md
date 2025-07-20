@@ -5,8 +5,10 @@
 **Semester:** Spring 2021
 
 ## Overview
+This project focuses on analyzing the sleep response behavior of Drosophila melanogaster (fruit flies) using EthoVision XT. The goal was to quantify sleep durations and patterns across various genetic lines under controlled conditions, and compare those behaviors to established sleep-related studies.
 
-This research investigates the correlation between sleep quantity and neurological behavior in *Drosophila melanogaster* using open-field assays and video tracking analysis. The study leverages genetically modified fly lines to model neurological responses under varying sleep conditions.
+Note: Due to confidentiality, the dataset is not publicly available. The PowerPoint presentation contains screenshots of the data acquisition interface, behavioral timelines, and result visualizations.
+
 
 ## Research Question
 
@@ -19,6 +21,48 @@ This study explores whether sleep quantity affects exploratory behavior and atte
 - **Software:** Ethovision XT for automated behavioral tracking
 - **Variables:** Distance moved, mobility frequency, time in zone
 
+## Analysis Workflow
+### Data Acquisition
+
+- Behavioral tracking was conducted using EthoVision XT, a video-tracking software.
+
+- Flies were placed in pre-defined zones, and movement data was collected over a set observation window.
+
+- Sleep was defined as sustained inactivity beyond a specific threshold (industry standard: ≥5 minutes).
+
+### Data Processing & Cleaning
+
+- Raw EthoVision output was parsed to isolate activity/inactivity periods for each fly.
+
+- Data was segmented by sleep line, experimental group, and time window (e.g., light/dark cycles).
+
+- Unreliable data points (e.g., tracking noise, malformed timestamps) were removed.
+
+### Summary Statistics & Aggregation
+
+- Calculated mean, median, standard deviation, and range of sleep durations per fly line.
+
+- Aggregated sleep data by genotype, allowing for comparison across experimental conditions.
+
+- Line-level comparisons allowed us to isolate genetically-induced sleep phenotype differences.
+
+### Benchmarking with Literature
+
+- Compared results to known sleep baseline metrics from peer-reviewed Drosophila sleep studies.
+
+- Evaluated deviation from control strains and checked alignment with known short-sleeper and long-sleeper models.
+
+ ### Visual Evidence
+**While raw data is confidential, the presentation contains:**
+
+- Screenshots of EthoVision software interface
+
+- Activity heat maps and behavioral sector definitions
+
+- Charts comparing sleep metrics across fly lines
+
+- Annotated comparisons with baseline literature findings
+- 
 ##  Skills Demonstrated
 
 ### Research & Scientific Methodology
@@ -55,9 +99,5 @@ Research cited includes peer-reviewed studies on memory, sleep, and genetic infl
 
 ## Reflection
 
-This project deepened my understanding of experimental design, data visualization, and biological modeling. It also honed my skills in behavioral tracking software and time management in research.
-
-## Future Work
-
-Expanding the genetic scope of the sleep lines, applying machine learning for pattern recognition in movement, and comparing to human sleep behavior models.
+This project strengthened my ability to design structured data experiments, visualize complex time-series data, and translate biological behavior into actionable insights. I gained hands-on experience using behavioral tracking tools, while managing multiple timelines under real-world constraints—skills directly applicable to operational analytics, clinical data workflows, and digital health environments.
 
