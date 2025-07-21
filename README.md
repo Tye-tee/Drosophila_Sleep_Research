@@ -62,7 +62,7 @@ This study explores whether sleep quantity affects exploratory behavior and atte
 - Charts comparing sleep metrics across fly lines
 
 - Annotated comparisons with baseline literature findings
-- 
+
 ##  Skills Demonstrated
 
 ### Research & Scientific Methodology
